@@ -1,0 +1,4 @@
+﻿05/11/2025
+Crear un proyecto en Git Hub llamado Tesis.
+Encontrar todos los artículos seminales que se enfoquen en la parte estocástica
+preguntar si hay un artículo que use toda la propuesta completa
